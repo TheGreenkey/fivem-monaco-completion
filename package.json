@@ -1,0 +1,14 @@
+{
+  "name": "fivem-monaco-completion",
+  "version": "0.0.1",
+  "description": "This package generates a .json syntax completion file for the monaco editor",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "TheGreenkey",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
